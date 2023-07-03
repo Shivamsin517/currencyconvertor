@@ -12,3 +12,4 @@ Offline Mode: Basic currency conversion functionalities are available even when 
 4.Start the development server:
 5.Install the Expo Go app on your mobile device from the App Store or Google Play Store.
 6.Scan the QR code displayed in the terminal using the Expo Go app to run the app on your device.
+**download .apk**-https://expo.dev/artifacts/eas/fezvA6zinqpNsiUbPnifc8.apk
